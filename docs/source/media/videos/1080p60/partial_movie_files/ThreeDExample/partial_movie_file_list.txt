@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/467829709_3828430618_200912436.mp4'
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/1288299487_3053508258_3636322526.mp4'
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/3048959444_472891391_2514704047.mp4'
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/3545835455_2261105269_3553640725.mp4'
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/3602209306_1897759908_3553640725.mp4'
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/3602209306_587258101_4059065653.mp4'
+file 'file:/Users/gegunlock/gegunlock-io/docs/source/media/videos/1080p60/partial_movie_files/ThreeDExample/3602209306_2314433905_3553640725.mp4'
